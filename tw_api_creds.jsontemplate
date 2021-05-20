@@ -1,0 +1,6 @@
+{
+    "consumer_token": "YOUR-CONSUMER-TOKEN",
+    "consumer_secret": "YOUR-CONSUMER-SECRET",
+    "access_token": "YOUR-ACCESS-TOKEN",
+    "access_token_secret": "YOUR-ACCESS-TOKEN-SECRET"
+}
